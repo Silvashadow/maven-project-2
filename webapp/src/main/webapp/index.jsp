@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>SILVASHADOW'S WEBSITE TRAINING</h1>
-  <p>EUREKA! EUREKA!! EUREKA!!!</p>
+  <h1>SNOWCHARIOTT</h1>
+  <p>EUREKA! I DID IT AGAIN!</p>
 </div>
 </body>
 </html>
